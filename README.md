@@ -23,7 +23,7 @@ An interactive digital whiteboard application built with React. Draw, sketch, an
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/vanshgoel1/sketchflow.git
+   git clone https://github.com/harsh22102005/Sketchflow.git
    cd sketchflow
    ```
 
