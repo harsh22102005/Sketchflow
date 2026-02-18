@@ -2,7 +2,7 @@
 
 An interactive digital whiteboard application built with React. Draw, sketch, and create with various tools and a hand-drawn aesthetic.
 
-## ✨ Features
+## ✨ Feature
 
 - 🖌️ Multiple drawing tools (brush, line, rectangle, circle, text)
 - 🎨 Customizable stroke color and width
